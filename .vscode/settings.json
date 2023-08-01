@@ -1,4 +1,5 @@
 {
   "java.compile.nullAnalysis.mode": "automatic",
-  "cSpell.words": ["Populator"]
+  "cSpell.words": ["organicdog", "Populator"],
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
